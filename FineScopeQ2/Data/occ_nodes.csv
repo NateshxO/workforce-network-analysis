@@ -1,0 +1,526 @@
+Id,Label,SOC_Major,SOC_Group,clean_id
+11-1011.00,Chief Executives,11,Management,11-1011
+11-1011.03,Chief Sustainability Officers,11,Management,11-1011
+11-1021.00,General and Operations Managers,11,Management,11-1021
+11-2011.00,Advertising and Promotions Managers,11,Management,11-2011
+11-2021.00,Marketing Managers,11,Management,11-2021
+11-2022.00,Sales Managers,11,Management,11-2022
+11-2033.00,Fundraising Managers,11,Management,11-2033
+11-3012.00,Administrative Services Managers,11,Management,11-3012
+11-3013.00,Facilities Managers,11,Management,11-3013
+11-3013.01,Security Managers,11,Management,11-3013
+11-3031.00,Financial Managers,11,Management,11-3031
+11-3031.01,Treasurers and Controllers,11,Management,11-3031
+11-3031.03,Investment Fund Managers,11,Management,11-3031
+11-3051.02,Geothermal Production Managers,11,Management,11-3051
+11-3051.04,Biomass Power Plant Managers,11,Management,11-3051
+11-3061.00,Purchasing Managers,11,Management,11-3061
+11-3071.00,"Transportation, Storage, and Distribution Managers",11,Management,11-3071
+11-3071.04,Supply Chain Managers,11,Management,11-3071
+11-3111.00,Compensation and Benefits Managers,11,Management,11-3111
+11-3121.00,Human Resources Managers,11,Management,11-3121
+11-3131.00,Training and Development Managers,11,Management,11-3131
+11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",11,Management,11-9013
+11-9021.00,Construction Managers,11,Management,11-9021
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",11,Management,11-9031
+11-9032.00,"Education Administrators, Kindergarten through Secondary",11,Management,11-9032
+11-9033.00,"Education Administrators, Postsecondary",11,Management,11-9033
+11-9041.00,Architectural and Engineering Managers,11,Management,11-9041
+11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,11,Management,11-9041
+11-9051.00,Food Service Managers,11,Management,11-9051
+11-9071.00,Gambling Managers,11,Management,11-9071
+11-9072.00,"Entertainment and Recreation Managers, Except Gambling",11,Management,11-9072
+11-9081.00,Lodging Managers,11,Management,11-9081
+11-9111.00,Medical and Health Services Managers,11,Management,11-9111
+11-9121.00,Natural Sciences Managers,11,Management,11-9121
+11-9121.01,Clinical Research Coordinators,11,Management,11-9121
+11-9121.02,Water Resource Specialists,11,Management,11-9121
+11-9131.00,Postmasters and Mail Superintendents,11,Management,11-9131
+11-9141.00,"Property, Real Estate, and Community Association Managers",11,Management,11-9141
+11-9151.00,Social and Community Service Managers,11,Management,11-9151
+11-9161.00,Emergency Management Directors,11,Management,11-9161
+11-9171.00,Funeral Home Managers,11,Management,11-9171
+11-9179.01,Fitness and Wellness Coordinators,11,Management,11-9179
+11-9179.02,Spa Managers,11,Management,11-9179
+11-9199.01,Regulatory Affairs Managers,11,Management,11-9199
+11-9199.02,Compliance Managers,11,Management,11-9199
+11-9199.08,Loss Prevention Managers,11,Management,11-9199
+11-9199.09,Wind Energy Operations Managers,11,Management,11-9199
+11-9199.10,Wind Energy Development Managers,11,Management,11-9199
+11-9199.11,Brownfield Redevelopment Specialists and Site Managers,11,Management,11-9199
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",13,Business & Financial,13-1011
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",13,Business & Financial,13-1021
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",13,Business & Financial,13-1022
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",13,Business & Financial,13-1023
+13-1031.00,"Claims Adjusters, Examiners, and Investigators",13,Business & Financial,13-1031
+13-1041.00,Compliance Officers,13,Business & Financial,13-1041
+13-1041.01,Environmental Compliance Inspectors,13,Business & Financial,13-1041
+13-1041.03,Equal Opportunity Representatives and Officers,13,Business & Financial,13-1041
+13-1041.04,Government Property Inspectors and Investigators,13,Business & Financial,13-1041
+13-1041.06,Coroners,13,Business & Financial,13-1041
+13-1041.07,Regulatory Affairs Specialists,13,Business & Financial,13-1041
+13-1041.08,Customs Brokers,13,Business & Financial,13-1041
+13-1051.00,Cost Estimators,13,Business & Financial,13-1051
+13-1071.00,Human Resources Specialists,13,Business & Financial,13-1071
+13-1075.00,Labor Relations Specialists,13,Business & Financial,13-1075
+13-1081.00,Logisticians,13,Business & Financial,13-1081
+13-1081.02,Logistics Analysts,13,Business & Financial,13-1081
+13-1111.00,Management Analysts,13,Business & Financial,13-1111
+13-1121.00,"Meeting, Convention, and Event Planners",13,Business & Financial,13-1121
+13-1131.00,Fundraisers,13,Business & Financial,13-1131
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",13,Business & Financial,13-1141
+13-1151.00,Training and Development Specialists,13,Business & Financial,13-1151
+13-1161.00,Market Research Analysts and Marketing Specialists,13,Business & Financial,13-1161
+13-1161.01,Search Marketing Strategists,13,Business & Financial,13-1161
+13-1199.04,Business Continuity Planners,13,Business & Financial,13-1199
+13-1199.05,Sustainability Specialists,13,Business & Financial,13-1199
+13-1199.06,Online Merchants,13,Business & Financial,13-1199
+13-1199.07,Security Management Specialists,13,Business & Financial,13-1199
+13-2011.00,Accountants and Auditors,13,Business & Financial,13-2011
+13-2022.00,Appraisers of Personal and Business Property,13,Business & Financial,13-2022
+13-2023.00,Appraisers and Assessors of Real Estate,13,Business & Financial,13-2023
+13-2031.00,Budget Analysts,13,Business & Financial,13-2031
+13-2041.00,Credit Analysts,13,Business & Financial,13-2041
+13-2052.00,Personal Financial Advisors,13,Business & Financial,13-2052
+13-2053.00,Insurance Underwriters,13,Business & Financial,13-2053
+13-2061.00,Financial Examiners,13,Business & Financial,13-2061
+13-2071.00,Credit Counselors,13,Business & Financial,13-2071
+13-2072.00,Loan Officers,13,Business & Financial,13-2072
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",13,Business & Financial,13-2081
+13-2082.00,Tax Preparers,13,Business & Financial,13-2082
+13-2099.01,Financial Quantitative Analysts,13,Business & Financial,13-2099
+13-2099.04,"Fraud Examiners, Investigators and Analysts",13,Business & Financial,13-2099
+15-1211.01,Health Informatics Specialists,15,Computer & Math,15-1211
+15-1243.00,Database Architects,15,Computer & Math,15-1243
+15-1243.01,Data Warehousing Specialists,15,Computer & Math,15-1243
+15-1299.03,Document Management Specialists,15,Computer & Math,15-1299
+15-1299.09,Information Technology Project Managers,15,Computer & Math,15-1299
+15-2011.00,Actuaries,15,Computer & Math,15-2011
+15-2021.00,Mathematicians,15,Computer & Math,15-2021
+15-2031.00,Operations Research Analysts,15,Computer & Math,15-2031
+15-2041.00,Statisticians,15,Computer & Math,15-2041
+15-2041.01,Biostatisticians,15,Computer & Math,15-2041
+15-2051.01,Business Intelligence Analysts,15,Computer & Math,15-2051
+17-1011.00,"Architects, Except Landscape and Naval",17,Architecture & Engineering,17-1011
+17-1012.00,Landscape Architects,17,Architecture & Engineering,17-1012
+17-1021.00,Cartographers and Photogrammetrists,17,Architecture & Engineering,17-1021
+17-2011.00,Aerospace Engineers,17,Architecture & Engineering,17-2011
+17-2051.02,Water/Wastewater Engineers,17,Architecture & Engineering,17-2051
+17-2081.00,Environmental Engineers,17,Architecture & Engineering,17-2081
+17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17,Architecture & Engineering,17-2111
+17-2112.01,Human Factors Engineers and Ergonomists,17,Architecture & Engineering,17-2112
+17-2112.02,Validation Engineers,17,Architecture & Engineering,17-2112
+17-2131.00,Materials Engineers,17,Architecture & Engineering,17-2131
+17-2141.02,Automotive Engineers,17,Architecture & Engineering,17-2141
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",17,Architecture & Engineering,17-2151
+17-2171.00,Petroleum Engineers,17,Architecture & Engineering,17-2171
+17-2199.03,"Energy Engineers, Except Wind and Solar",17,Architecture & Engineering,17-2199
+17-2199.06,Microsystems Engineers,17,Architecture & Engineering,17-2199
+17-2199.10,Wind Energy Engineers,17,Architecture & Engineering,17-2199
+17-2199.11,Solar Energy Systems Engineers,17,Architecture & Engineering,17-2199
+17-3011.00,Architectural and Civil Drafters,17,Architecture & Engineering,17-3011
+17-3012.00,Electrical and Electronics Drafters,17,Architecture & Engineering,17-3012
+17-3022.00,Civil Engineering Technologists and Technicians,17,Architecture & Engineering,17-3022
+19-1011.00,Animal Scientists,19,"Life, Physical & Social Science",19-1011
+19-1012.00,Food Scientists and Technologists,19,"Life, Physical & Social Science",19-1012
+19-1013.00,Soil and Plant Scientists,19,"Life, Physical & Social Science",19-1013
+19-1022.00,Microbiologists,19,"Life, Physical & Social Science",19-1022
+19-1023.00,Zoologists and Wildlife Biologists,19,"Life, Physical & Social Science",19-1023
+19-1029.01,Bioinformatics Scientists,19,"Life, Physical & Social Science",19-1029
+19-1029.02,Molecular and Cellular Biologists,19,"Life, Physical & Social Science",19-1029
+19-1029.03,Geneticists,19,"Life, Physical & Social Science",19-1029
+19-1029.04,Biologists,19,"Life, Physical & Social Science",19-1029
+19-1031.00,Conservation Scientists,19,"Life, Physical & Social Science",19-1031
+19-1031.02,Range Managers,19,"Life, Physical & Social Science",19-1031
+19-1031.03,Park Naturalists,19,"Life, Physical & Social Science",19-1031
+19-1041.00,Epidemiologists,19,"Life, Physical & Social Science",19-1041
+19-1042.00,"Medical Scientists, Except Epidemiologists",19,"Life, Physical & Social Science",19-1042
+19-2011.00,Astronomers,19,"Life, Physical & Social Science",19-2011
+19-2012.00,Physicists,19,"Life, Physical & Social Science",19-2012
+19-2021.00,Atmospheric and Space Scientists,19,"Life, Physical & Social Science",19-2021
+19-2032.00,Materials Scientists,19,"Life, Physical & Social Science",19-2032
+19-2041.00,"Environmental Scientists and Specialists, Including Health",19,"Life, Physical & Social Science",19-2041
+19-2041.01,Climate Change Policy Analysts,19,"Life, Physical & Social Science",19-2041
+19-2041.02,Environmental Restoration Planners,19,"Life, Physical & Social Science",19-2041
+19-2041.03,Industrial Ecologists,19,"Life, Physical & Social Science",19-2041
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",19,"Life, Physical & Social Science",19-2042
+19-2099.01,Remote Sensing Scientists and Technologists,19,"Life, Physical & Social Science",19-2099
+19-3011.00,Economists,19,"Life, Physical & Social Science",19-3011
+19-3011.01,Environmental Economists,19,"Life, Physical & Social Science",19-3011
+19-3022.00,Survey Researchers,19,"Life, Physical & Social Science",19-3022
+19-3032.00,Industrial-Organizational Psychologists,19,"Life, Physical & Social Science",19-3032
+19-3033.00,Clinical and Counseling Psychologists,19,"Life, Physical & Social Science",19-3033
+19-3034.00,School Psychologists,19,"Life, Physical & Social Science",19-3034
+19-3039.02,Neuropsychologists,19,"Life, Physical & Social Science",19-3039
+19-3039.03,Clinical Neuropsychologists,19,"Life, Physical & Social Science",19-3039
+19-3041.00,Sociologists,19,"Life, Physical & Social Science",19-3041
+19-3051.00,Urban and Regional Planners,19,"Life, Physical & Social Science",19-3051
+19-3091.00,Anthropologists and Archeologists,19,"Life, Physical & Social Science",19-3091
+19-3092.00,Geographers,19,"Life, Physical & Social Science",19-3092
+19-3093.00,Historians,19,"Life, Physical & Social Science",19-3093
+19-3094.00,Political Scientists,19,"Life, Physical & Social Science",19-3094
+19-3099.01,Transportation Planners,19,"Life, Physical & Social Science",19-3099
+19-4042.00,"Environmental Science and Protection Technicians, Including Health",19,"Life, Physical & Social Science",19-4042
+19-4061.00,Social Science Research Assistants,19,"Life, Physical & Social Science",19-4061
+19-4092.00,Forensic Science Technicians,19,"Life, Physical & Social Science",19-4092
+19-5012.00,Occupational Health and Safety Technicians,19,"Life, Physical & Social Science",19-5012
+21-1011.00,Substance Abuse and Behavioral Disorder Counselors,21,Community & Social Service,21-1011
+21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",21,Community & Social Service,21-1012
+21-1013.00,Marriage and Family Therapists,21,Community & Social Service,21-1013
+21-1014.00,Mental Health Counselors,21,Community & Social Service,21-1014
+21-1015.00,Rehabilitation Counselors,21,Community & Social Service,21-1015
+21-1021.00,"Child, Family, and School Social Workers",21,Community & Social Service,21-1021
+21-1022.00,Healthcare Social Workers,21,Community & Social Service,21-1022
+21-1023.00,Mental Health and Substance Abuse Social Workers,21,Community & Social Service,21-1023
+21-1091.00,Health Education Specialists,21,Community & Social Service,21-1091
+21-1092.00,Probation Officers and Correctional Treatment Specialists,21,Community & Social Service,21-1092
+21-1093.00,Social and Human Service Assistants,21,Community & Social Service,21-1093
+21-1094.00,Community Health Workers,21,Community & Social Service,21-1094
+21-2011.00,Clergy,21,Community & Social Service,21-2011
+21-2021.00,"Directors, Religious Activities and Education",21,Community & Social Service,21-2021
+23-1011.00,Lawyers,23,Legal,23-1011
+23-1012.00,Judicial Law Clerks,23,Legal,23-1012
+23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers",23,Legal,23-1021
+23-1022.00,"Arbitrators, Mediators, and Conciliators",23,Legal,23-1022
+23-1023.00,"Judges, Magistrate Judges, and Magistrates",23,Legal,23-1023
+23-2011.00,Paralegals and Legal Assistants,23,Legal,23-2011
+23-2093.00,"Title Examiners, Abstractors, and Searchers",23,Legal,23-2093
+25-1011.00,"Business Teachers, Postsecondary",25,Education,25-1011
+25-1021.00,"Computer Science Teachers, Postsecondary",25,Education,25-1021
+25-1022.00,"Mathematical Science Teachers, Postsecondary",25,Education,25-1022
+25-1031.00,"Architecture Teachers, Postsecondary",25,Education,25-1031
+25-1032.00,"Engineering Teachers, Postsecondary",25,Education,25-1032
+25-1041.00,"Agricultural Sciences Teachers, Postsecondary",25,Education,25-1041
+25-1042.00,"Biological Science Teachers, Postsecondary",25,Education,25-1042
+25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",25,Education,25-1043
+25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",25,Education,25-1051
+25-1052.00,"Chemistry Teachers, Postsecondary",25,Education,25-1052
+25-1053.00,"Environmental Science Teachers, Postsecondary",25,Education,25-1053
+25-1054.00,"Physics Teachers, Postsecondary",25,Education,25-1054
+25-1061.00,"Anthropology and Archeology Teachers, Postsecondary",25,Education,25-1061
+25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",25,Education,25-1062
+25-1063.00,"Economics Teachers, Postsecondary",25,Education,25-1063
+25-1064.00,"Geography Teachers, Postsecondary",25,Education,25-1064
+25-1065.00,"Political Science Teachers, Postsecondary",25,Education,25-1065
+25-1066.00,"Psychology Teachers, Postsecondary",25,Education,25-1066
+25-1067.00,"Sociology Teachers, Postsecondary",25,Education,25-1067
+25-1071.00,"Health Specialties Teachers, Postsecondary",25,Education,25-1071
+25-1072.00,"Nursing Instructors and Teachers, Postsecondary",25,Education,25-1072
+25-1081.00,"Education Teachers, Postsecondary",25,Education,25-1081
+25-1082.00,"Library Science Teachers, Postsecondary",25,Education,25-1082
+25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary",25,Education,25-1111
+25-1112.00,"Law Teachers, Postsecondary",25,Education,25-1112
+25-1113.00,"Social Work Teachers, Postsecondary",25,Education,25-1113
+25-1121.00,"Art, Drama, and Music Teachers, Postsecondary",25,Education,25-1121
+25-1122.00,"Communications Teachers, Postsecondary",25,Education,25-1122
+25-1123.00,"English Language and Literature Teachers, Postsecondary",25,Education,25-1123
+25-1124.00,"Foreign Language and Literature Teachers, Postsecondary",25,Education,25-1124
+25-1125.00,"History Teachers, Postsecondary",25,Education,25-1125
+25-1126.00,"Philosophy and Religion Teachers, Postsecondary",25,Education,25-1126
+25-1192.00,"Family and Consumer Sciences Teachers, Postsecondary",25,Education,25-1192
+25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary",25,Education,25-1193
+25-1194.00,"Career/Technical Education Teachers, Postsecondary",25,Education,25-1194
+25-2011.00,"Preschool Teachers, Except Special Education",25,Education,25-2011
+25-2012.00,"Kindergarten Teachers, Except Special Education",25,Education,25-2012
+25-2021.00,"Elementary School Teachers, Except Special Education",25,Education,25-2021
+25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education",25,Education,25-2022
+25-2023.00,"Career/Technical Education Teachers, Middle School",25,Education,25-2023
+25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education",25,Education,25-2031
+25-2032.00,"Career/Technical Education Teachers, Secondary School",25,Education,25-2032
+25-2051.00,"Special Education Teachers, Preschool",25,Education,25-2051
+25-2056.00,"Special Education Teachers, Elementary School",25,Education,25-2056
+25-2057.00,"Special Education Teachers, Middle School",25,Education,25-2057
+25-2058.00,"Special Education Teachers, Secondary School",25,Education,25-2058
+25-2059.01,Adapted Physical Education Specialists,25,Education,25-2059
+25-3011.00,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25,Education,25-3011
+25-3021.00,Self-Enrichment Teachers,25,Education,25-3021
+25-3031.00,"Substitute Teachers, Short-Term",25,Education,25-3031
+25-3041.00,Tutors,25,Education,25-3041
+25-4011.00,Archivists,25,Education,25-4011
+25-4012.00,Curators,25,Education,25-4012
+25-4013.00,Museum Technicians and Conservators,25,Education,25-4013
+25-4022.00,Librarians and Media Collections Specialists,25,Education,25-4022
+25-9021.00,Farm and Home Management Educators,25,Education,25-9021
+25-9031.00,Instructional Coordinators,25,Education,25-9031
+25-9042.00,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",25,Education,25-9042
+25-9043.00,"Teaching Assistants, Special Education",25,Education,25-9043
+25-9044.00,"Teaching Assistants, Postsecondary",25,Education,25-9044
+27-1011.00,Art Directors,27,Arts & Media,27-1011
+27-1022.00,Fashion Designers,27,Arts & Media,27-1022
+27-1024.00,Graphic Designers,27,Arts & Media,27-1024
+27-1025.00,Interior Designers,27,Arts & Media,27-1025
+27-1026.00,Merchandise Displayers and Window Trimmers,27,Arts & Media,27-1026
+27-1027.00,Set and Exhibit Designers,27,Arts & Media,27-1027
+27-2011.00,Actors,27,Arts & Media,27-2011
+27-2012.00,Producers and Directors,27,Arts & Media,27-2012
+27-2012.03,Media Programming Directors,27,Arts & Media,27-2012
+27-2012.04,Talent Directors,27,Arts & Media,27-2012
+27-2022.00,Coaches and Scouts,27,Arts & Media,27-2022
+27-2023.00,"Umpires, Referees, and Other Sports Officials",27,Arts & Media,27-2023
+27-2031.00,Dancers,27,Arts & Media,27-2031
+27-2032.00,Choreographers,27,Arts & Media,27-2032
+27-2041.00,Music Directors and Composers,27,Arts & Media,27-2041
+27-2042.00,Musicians and Singers,27,Arts & Media,27-2042
+27-3011.00,Broadcast Announcers and Radio Disc Jockeys,27,Arts & Media,27-3011
+27-3023.00,"News Analysts, Reporters, and Journalists",27,Arts & Media,27-3023
+27-3031.00,Public Relations Specialists,27,Arts & Media,27-3031
+27-3042.00,Technical Writers,27,Arts & Media,27-3042
+27-3043.00,Writers and Authors,27,Arts & Media,27-3043
+27-3043.05,"Poets, Lyricists and Creative Writers",27,Arts & Media,27-3043
+27-3091.00,Interpreters and Translators,27,Arts & Media,27-3091
+27-4021.00,Photographers,27,Arts & Media,27-4021
+29-1011.00,Chiropractors,29,Healthcare Practitioners,29-1011
+29-1023.00,Orthodontists,29,Healthcare Practitioners,29-1023
+29-1031.00,Dietitians and Nutritionists,29,Healthcare Practitioners,29-1031
+29-1041.00,Optometrists,29,Healthcare Practitioners,29-1041
+29-1051.00,Pharmacists,29,Healthcare Practitioners,29-1051
+29-1071.00,Physician Assistants,29,Healthcare Practitioners,29-1071
+29-1071.01,Anesthesiologist Assistants,29,Healthcare Practitioners,29-1071
+29-1081.00,Podiatrists,29,Healthcare Practitioners,29-1081
+29-1122.00,Occupational Therapists,29,Healthcare Practitioners,29-1122
+29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",29,Healthcare Practitioners,29-1122
+29-1123.00,Physical Therapists,29,Healthcare Practitioners,29-1123
+29-1125.00,Recreational Therapists,29,Healthcare Practitioners,29-1125
+29-1126.00,Respiratory Therapists,29,Healthcare Practitioners,29-1126
+29-1127.00,Speech-Language Pathologists,29,Healthcare Practitioners,29-1127
+29-1128.00,Exercise Physiologists,29,Healthcare Practitioners,29-1128
+29-1129.01,Art Therapists,29,Healthcare Practitioners,29-1129
+29-1129.02,Music Therapists,29,Healthcare Practitioners,29-1129
+29-1131.00,Veterinarians,29,Healthcare Practitioners,29-1131
+29-1141.00,Registered Nurses,29,Healthcare Practitioners,29-1141
+29-1141.01,Acute Care Nurses,29,Healthcare Practitioners,29-1141
+29-1141.02,Advanced Practice Psychiatric Nurses,29,Healthcare Practitioners,29-1141
+29-1141.03,Critical Care Nurses,29,Healthcare Practitioners,29-1141
+29-1141.04,Clinical Nurse Specialists,29,Healthcare Practitioners,29-1141
+29-1151.00,Nurse Anesthetists,29,Healthcare Practitioners,29-1151
+29-1161.00,Nurse Midwives,29,Healthcare Practitioners,29-1161
+29-1171.00,Nurse Practitioners,29,Healthcare Practitioners,29-1171
+29-1181.00,Audiologists,29,Healthcare Practitioners,29-1181
+29-1211.00,Anesthesiologists,29,Healthcare Practitioners,29-1211
+29-1213.00,Dermatologists,29,Healthcare Practitioners,29-1213
+29-1214.00,Emergency Medicine Physicians,29,Healthcare Practitioners,29-1214
+29-1215.00,Family Medicine Physicians,29,Healthcare Practitioners,29-1215
+29-1216.00,General Internal Medicine Physicians,29,Healthcare Practitioners,29-1216
+29-1217.00,Neurologists,29,Healthcare Practitioners,29-1217
+29-1218.00,Obstetricians and Gynecologists,29,Healthcare Practitioners,29-1218
+29-1221.00,"Pediatricians, General",29,Healthcare Practitioners,29-1221
+29-1222.00,"Physicians, Pathologists",29,Healthcare Practitioners,29-1222
+29-1223.00,Psychiatrists,29,Healthcare Practitioners,29-1223
+29-1224.00,Radiologists,29,Healthcare Practitioners,29-1224
+29-1229.01,Allergists and Immunologists,29,Healthcare Practitioners,29-1229
+29-1229.02,Hospitalists,29,Healthcare Practitioners,29-1229
+29-1229.03,Urologists,29,Healthcare Practitioners,29-1229
+29-1229.04,Physical Medicine and Rehabilitation Physicians,29,Healthcare Practitioners,29-1229
+29-1229.05,Preventive Medicine Physicians,29,Healthcare Practitioners,29-1229
+29-1229.06,Sports Medicine Physicians,29,Healthcare Practitioners,29-1229
+29-1241.00,"Ophthalmologists, Except Pediatric",29,Healthcare Practitioners,29-1241
+29-1291.00,Acupuncturists,29,Healthcare Practitioners,29-1291
+29-1299.01,Naturopathic Physicians,29,Healthcare Practitioners,29-1299
+29-1299.02,Orthoptists,29,Healthcare Practitioners,29-1299
+29-2011.01,Cytogenetic Technologists,29,Healthcare Practitioners,29-2011
+29-2011.04,Histotechnologists,29,Healthcare Practitioners,29-2011
+29-2031.00,Cardiovascular Technologists and Technicians,29,Healthcare Practitioners,29-2031
+29-2033.00,Nuclear Medicine Technologists,29,Healthcare Practitioners,29-2033
+29-2036.00,Medical Dosimetrists,29,Healthcare Practitioners,29-2036
+29-2051.00,Dietetic Technicians,29,Healthcare Practitioners,29-2051
+29-2052.00,Pharmacy Technicians,29,Healthcare Practitioners,29-2052
+29-2053.00,Psychiatric Technicians,29,Healthcare Practitioners,29-2053
+29-2056.00,Veterinary Technologists and Technicians,29,Healthcare Practitioners,29-2056
+29-2061.00,Licensed Practical and Licensed Vocational Nurses,29,Healthcare Practitioners,29-2061
+29-2099.05,Ophthalmic Medical Technologists,29,Healthcare Practitioners,29-2099
+29-2099.08,Patient Representatives,29,Healthcare Practitioners,29-2099
+29-9091.00,Athletic Trainers,29,Healthcare Practitioners,29-9091
+29-9092.00,Genetic Counselors,29,Healthcare Practitioners,29-9092
+29-9099.01,Midwives,29,Healthcare Practitioners,29-9099
+31-1121.00,Home Health Aides,31,Healthcare Support,31-1121
+31-1122.00,Personal Care Aides,31,Healthcare Support,31-1122
+31-1131.00,Nursing Assistants,31,Healthcare Support,31-1131
+31-1132.00,Orderlies,31,Healthcare Support,31-1132
+31-1133.00,Psychiatric Aides,31,Healthcare Support,31-1133
+31-2011.00,Occupational Therapy Assistants,31,Healthcare Support,31-2011
+31-2012.00,Occupational Therapy Aides,31,Healthcare Support,31-2012
+31-2021.00,Physical Therapist Assistants,31,Healthcare Support,31-2021
+31-2022.00,Physical Therapist Aides,31,Healthcare Support,31-2022
+31-9011.00,Massage Therapists,31,Healthcare Support,31-9011
+31-9091.00,Dental Assistants,31,Healthcare Support,31-9091
+31-9092.00,Medical Assistants,31,Healthcare Support,31-9092
+31-9094.00,Medical Transcriptionists,31,Healthcare Support,31-9094
+31-9095.00,Pharmacy Aides,31,Healthcare Support,31-9095
+31-9097.00,Phlebotomists,31,Healthcare Support,31-9097
+31-9099.01,Speech-Language Pathology Assistants,31,Healthcare Support,31-9099
+33-1011.00,First-Line Supervisors of Correctional Officers,33,Protective Service,33-1011
+33-1012.00,First-Line Supervisors of Police and Detectives,33,Protective Service,33-1012
+33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,33,Protective Service,33-1021
+33-1091.00,First-Line Supervisors of Security Workers,33,Protective Service,33-1091
+33-2021.00,Fire Inspectors and Investigators,33,Protective Service,33-2021
+33-2022.00,Forest Fire Inspectors and Prevention Specialists,33,Protective Service,33-2022
+33-3011.00,Bailiffs,33,Protective Service,33-3011
+33-3012.00,Correctional Officers and Jailers,33,Protective Service,33-3012
+33-3021.00,Detectives and Criminal Investigators,33,Protective Service,33-3021
+33-3021.02,Police Identification and Records Officers,33,Protective Service,33-3021
+33-3021.06,Intelligence Analysts,33,Protective Service,33-3021
+33-3051.00,Police and Sheriff's Patrol Officers,33,Protective Service,33-3051
+33-3051.04,Customs and Border Protection Officers,33,Protective Service,33-3051
+33-3052.00,Transit and Railroad Police,33,Protective Service,33-3052
+33-9011.00,Animal Control Workers,33,Protective Service,33-9011
+33-9021.00,Private Detectives and Investigators,33,Protective Service,33-9021
+33-9031.00,Gambling Surveillance Officers and Gambling Investigators,33,Protective Service,33-9031
+33-9032.00,Security Guards,33,Protective Service,33-9032
+33-9091.00,Crossing Guards and Flaggers,33,Protective Service,33-9091
+33-9092.00,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",33,Protective Service,33-9092
+33-9099.02,Retail Loss Prevention Specialists,33,Protective Service,33-9099
+35-1011.00,Chefs and Head Cooks,35,Food Preparation,35-1011
+35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers,35,Food Preparation,35-1012
+35-2011.00,"Cooks, Fast Food",35,Food Preparation,35-2011
+35-2015.00,"Cooks, Short Order",35,Food Preparation,35-2015
+35-2021.00,Food Preparation Workers,35,Food Preparation,35-2021
+35-3011.00,Bartenders,35,Food Preparation,35-3011
+35-3023.00,Fast Food and Counter Workers,35,Food Preparation,35-3023
+35-3031.00,Waiters and Waitresses,35,Food Preparation,35-3031
+35-3041.00,"Food Servers, Nonrestaurant",35,Food Preparation,35-3041
+35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers,35,Food Preparation,35-9011
+35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35,Food Preparation,35-9031
+37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",37,Building & Grounds,37-1012
+37-2012.00,Maids and Housekeeping Cleaners,37,Building & Grounds,37-2012
+39-1013.00,First-Line Supervisors of Gambling Services Workers,39,Personal Care,39-1013
+39-1022.00,First-Line Supervisors of Personal Service Workers,39,Personal Care,39-1022
+39-2011.00,Animal Trainers,39,Personal Care,39-2011
+39-3011.00,Gambling Dealers,39,Personal Care,39-3011
+39-3012.00,Gambling and Sports Book Writers and Runners,39,Personal Care,39-3012
+39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers",39,Personal Care,39-3031
+39-3092.00,Costume Attendants,39,Personal Care,39-3092
+39-3093.00,"Locker Room, Coatroom, and Dressing Room Attendants",39,Personal Care,39-3093
+39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists",39,Personal Care,39-5012
+39-5092.00,Manicurists and Pedicurists,39,Personal Care,39-5092
+39-5093.00,Shampooers,39,Personal Care,39-5093
+39-5094.00,Skincare Specialists,39,Personal Care,39-5094
+39-6012.00,Concierges,39,Personal Care,39-6012
+39-7011.00,Tour Guides and Escorts,39,Personal Care,39-7011
+39-7012.00,Travel Guides,39,Personal Care,39-7012
+39-9011.00,Childcare Workers,39,Personal Care,39-9011
+39-9011.01,Nannies,39,Personal Care,39-9011
+39-9032.00,Recreation Workers,39,Personal Care,39-9032
+39-9041.00,Residential Advisors,39,Personal Care,39-9041
+41-1011.00,First-Line Supervisors of Retail Sales Workers,41,Sales,41-1011
+41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,41,Sales,41-1012
+41-2011.00,Cashiers,41,Sales,41-2011
+41-2021.00,Counter and Rental Clerks,41,Sales,41-2021
+41-2031.00,Retail Salespersons,41,Sales,41-2031
+41-3011.00,Advertising Sales Agents,41,Sales,41-3011
+41-3021.00,Insurance Sales Agents,41,Sales,41-3021
+41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",41,Sales,41-3031
+41-3041.00,Travel Agents,41,Sales,41-3041
+41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41,Sales,41-4011
+41-4011.07,Solar Sales Representatives and Assessors,41,Sales,41-4011
+41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",41,Sales,41-4012
+41-9011.00,Demonstrators and Product Promoters,41,Sales,41-9011
+41-9021.00,Real Estate Brokers,41,Sales,41-9021
+41-9022.00,Real Estate Sales Agents,41,Sales,41-9022
+41-9031.00,Sales Engineers,41,Sales,41-9031
+41-9041.00,Telemarketers,41,Sales,41-9041
+41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",41,Sales,41-9091
+43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,43,Office & Admin Support,43-1011
+43-2011.00,"Switchboard Operators, Including Answering Service",43,Office & Admin Support,43-2011
+43-2021.00,Telephone Operators,43,Office & Admin Support,43-2021
+43-3011.00,Bill and Account Collectors,43,Office & Admin Support,43-3011
+43-3021.00,Billing and Posting Clerks,43,Office & Admin Support,43-3021
+43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",43,Office & Admin Support,43-3031
+43-3041.00,Gambling Cage Workers,43,Office & Admin Support,43-3041
+43-3051.00,Payroll and Timekeeping Clerks,43,Office & Admin Support,43-3051
+43-3061.00,Procurement Clerks,43,Office & Admin Support,43-3061
+43-3071.00,Tellers,43,Office & Admin Support,43-3071
+43-4011.00,Brokerage Clerks,43,Office & Admin Support,43-4011
+43-4021.00,Correspondence Clerks,43,Office & Admin Support,43-4021
+43-4031.00,"Court, Municipal, and License Clerks",43,Office & Admin Support,43-4031
+43-4041.00,"Credit Authorizers, Checkers, and Clerks",43,Office & Admin Support,43-4041
+43-4051.00,Customer Service Representatives,43,Office & Admin Support,43-4051
+43-4061.00,"Eligibility Interviewers, Government Programs",43,Office & Admin Support,43-4061
+43-4071.00,File Clerks,43,Office & Admin Support,43-4071
+43-4081.00,"Hotel, Motel, and Resort Desk Clerks",43,Office & Admin Support,43-4081
+43-4111.00,"Interviewers, Except Eligibility and Loan",43,Office & Admin Support,43-4111
+43-4121.00,"Library Assistants, Clerical",43,Office & Admin Support,43-4121
+43-4131.00,Loan Interviewers and Clerks,43,Office & Admin Support,43-4131
+43-4141.00,New Accounts Clerks,43,Office & Admin Support,43-4141
+43-4151.00,Order Clerks,43,Office & Admin Support,43-4151
+43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",43,Office & Admin Support,43-4161
+43-4171.00,Receptionists and Information Clerks,43,Office & Admin Support,43-4171
+43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks,43,Office & Admin Support,43-4181
+43-5011.01,Freight Forwarders,43,Office & Admin Support,43-5011
+43-5021.00,Couriers and Messengers,43,Office & Admin Support,43-5021
+43-5031.00,Public Safety Telecommunicators,43,Office & Admin Support,43-5031
+43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",43,Office & Admin Support,43-5032
+43-5051.00,Postal Service Clerks,43,Office & Admin Support,43-5051
+43-5071.00,"Shipping, Receiving, and Inventory Clerks",43,Office & Admin Support,43-5071
+43-6011.00,Executive Secretaries and Executive Administrative Assistants,43,Office & Admin Support,43-6011
+43-6012.00,Legal Secretaries and Administrative Assistants,43,Office & Admin Support,43-6012
+43-6013.00,Medical Secretaries and Administrative Assistants,43,Office & Admin Support,43-6013
+43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",43,Office & Admin Support,43-6014
+43-9041.00,Insurance Claims and Policy Processing Clerks,43,Office & Admin Support,43-9041
+43-9061.00,"Office Clerks, General",43,Office & Admin Support,43-9061
+43-9111.00,Statistical Assistants,43,Office & Admin Support,43-9111
+45-4022.00,Logging Equipment Operators,45,"Farming, Fishing & Forestry",45-4022
+47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,47,Construction & Extraction,47-1011
+47-1011.03,Solar Energy Installation Managers,47,Construction & Extraction,47-1011
+47-2043.00,Floor Sanders and Finishers,47,Construction & Extraction,47-2043
+47-2071.00,"Paving, Surfacing, and Tamping Equipment Operators",47,Construction & Extraction,47-2071
+47-2072.00,Pile Driver Operators,47,Construction & Extraction,47-2072
+47-4011.00,Construction and Building Inspectors,47,Construction & Extraction,47-4011
+47-4011.01,Energy Auditors,47,Construction & Extraction,47-4011
+47-4021.00,Elevator and Escalator Installers and Repairers,47,Construction & Extraction,47-4021
+47-4051.00,Highway Maintenance Workers,47,Construction & Extraction,47-4051
+47-4061.00,Rail-Track Laying and Maintenance Equipment Operators,47,Construction & Extraction,47-4061
+47-5022.00,"Excavating and Loading Machine and Dragline Operators, Surface Mining",47,Construction & Extraction,47-5022
+47-5023.00,"Earth Drillers, Except Oil and Gas",47,Construction & Extraction,47-5023
+47-5041.00,Continuous Mining Machine Operators,47,Construction & Extraction,47-5041
+47-5051.00,"Rock Splitters, Quarry",47,Construction & Extraction,47-5051
+47-5071.00,"Roustabouts, Oil and Gas",47,Construction & Extraction,47-5071
+49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",49,Installation & Repair,49-2022
+49-2092.00,"Electric Motor, Power Tool, and Related Repairers",49,Installation & Repair,49-2092
+49-3011.00,Aircraft Mechanics and Service Technicians,49,Installation & Repair,49-3011
+49-3023.00,Automotive Service Technicians and Mechanics,49,Installation & Repair,49-3023
+49-3041.00,Farm Equipment Mechanics and Service Technicians,49,Installation & Repair,49-3041
+49-3051.00,Motorboat Mechanics and Service Technicians,49,Installation & Repair,49-3051
+49-3053.00,Outdoor Power Equipment and Other Small Engine Mechanics,49,Installation & Repair,49-3053
+49-9097.00,Signal and Track Switch Repairers,49,Installation & Repair,49-9097
+51-1011.00,First-Line Supervisors of Production and Operating Workers,51,Production,51-1011
+51-3021.00,Butchers and Meat Cutters,51,Production,51-3021
+51-3092.00,Food Batchmakers,51,Production,51-3092
+51-3093.00,Food Cooking Machine Operators and Tenders,51,Production,51-3093
+51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,51-4021
+51-4023.00,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,51-4023
+51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,51-4031
+51-4033.00,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51,Production,51-4033
+51-4035.00,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,51-4035
+51-5112.00,Printing Press Operators,51,Production,51-5112
+51-6011.00,Laundry and Dry-Cleaning Workers,51,Production,51-6011
+51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders,51,Production,51-6061
+51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51,Production,51-6063
+51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",51,Production,51-6064
+51-7041.00,"Sawing Machine Setters, Operators, and Tenders, Wood",51,Production,51-7041
+51-9022.00,"Grinding and Polishing Workers, Hand",51,Production,51-9022
+51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",51,Production,51-9023
+51-9032.00,"Cutting and Slicing Machine Setters, Operators, and Tenders",51,Production,51-9032
+51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",51,Production,51-9041
+51-9191.00,Adhesive Bonding Machine Operators and Tenders,51,Production,51-9191
+51-9192.00,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",51,Production,51-9192
+51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic",51,Production,51-9195
+53-1041.00,Aircraft Cargo Handling Supervisors,53,Transportation,53-1041
+53-1042.00,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",53,Transportation,53-1042
+53-1042.01,Recycling Coordinators,53,Transportation,53-1042
+53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",53,Transportation,53-2011
+53-2012.00,Commercial Pilots,53,Transportation,53-2012
+53-2021.00,Air Traffic Controllers,53,Transportation,53-2021
+53-2022.00,Airfield Operations Specialists,53,Transportation,53-2022
+53-2031.00,Flight Attendants,53,Transportation,53-2031
+53-3031.00,Driver/Sales Workers,53,Transportation,53-3031
+53-3051.00,"Bus Drivers, School",53,Transportation,53-3051
+53-3053.00,Shuttle Drivers and Chauffeurs,53,Transportation,53-3053
+53-4022.00,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",53,Transportation,53-4022
+53-6011.00,Bridge and Lock Tenders,53,Transportation,53-6011
+53-6041.00,Traffic Technicians,53,Transportation,53-6041
+53-6051.00,Transportation Inspectors,53,Transportation,53-6051
+53-6061.00,Passenger Attendants,53,Transportation,53-6061
+53-7031.00,Dredge Operators,53,Transportation,53-7031
+53-7062.04,Recycling and Reclamation Workers,53,Transportation,53-7062
+53-7065.00,Stockers and Order Fillers,53,Transportation,53-7065
+53-7071.00,Gas Compressor and Gas Pumping Station Operators,53,Transportation,53-7071
